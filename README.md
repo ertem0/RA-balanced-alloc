@@ -1,0 +1,1 @@
+In the main.py file, you can modify the values under the if __name__ == "__main__" block. After running it, data files for the different experiments will be created. To plot the results, use manualplotter.py—inside that file, update the files array with the names of the data files you want to plot.
